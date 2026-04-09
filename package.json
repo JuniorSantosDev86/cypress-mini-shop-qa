@@ -19,6 +19,7 @@
   "report:clean": "rm -rf cypress/reports mochawesome-report",
   "report:open": "xdg-open cypress/reports/html/index.html"
 },
+
   "eslintConfig": {
     "extends": [
       "react-app",
